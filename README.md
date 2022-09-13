@@ -1,0 +1,1 @@
+This is a single page restaurant site built with vanilla JS, Sass and webpack. The goal of this project was to learn how to use webpack and sass, and also to build a clean looking SPA without using a framework.
